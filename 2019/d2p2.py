@@ -1,6 +1,4 @@
 import sys
-
-
 def run(program): 
     ip = 0
     while True: 
